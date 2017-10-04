@@ -1,5 +1,14 @@
 # Reverse-Coding-Instruo
 
+There will be four problems
+
+* problem 1
+* problem 2
+* problem 3
+* problem 4
+
+For each such problem you need to submit your solution in any language you want (preferrably C/C++/Java/Python)
+
 # Submission Guidelines
 
 In order to submit you solution, simply create a folder having folder name of your github username and within that folder, submit your solutions 
