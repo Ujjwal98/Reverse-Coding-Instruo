@@ -8,8 +8,10 @@
 -------------------------------------------------------------------
 
 
-Its the first of its kind **Open Source** event to be held at the IIEST campus. It is based on reverse coding 
-  -  Given some inputs and outputs you will have to figure out the logic behind it.
+Its the first of its kind **Open Source** event to be held at the IIEST campus. It is based on reverse coding.
+
+
+`Given some inputs and outputs you will have to figure out the logic behind it.`
   
 It will be a 90-minute challenge and top participants will get exiting prizes and a `certificate of participation`.
 
