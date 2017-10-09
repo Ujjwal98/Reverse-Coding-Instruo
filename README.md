@@ -8,7 +8,10 @@
 -------------------------------------------------------------------
 
 
-Its the first of its kind **Open Source** event to be held at the IIEST campus. It is based on reverse coding - (i.e. given some inputs and outputs you will have to figure out the logic behind it). It will be a 90-minute challenge and top participants will get prize money and a `certificate of participation`.
+Its the first of its kind **Open Source** event to be held at the IIEST campus. It is based on reverse coding 
+  -  Given some inputs and outputs you will have to figure out the logic behind it.
+  
+It will be a 90-minute challenge and top participants will get exiting prizes and a `certificate of participation`.
 
 
 The event will be held on Github. So it is required for participants to have a github account.
