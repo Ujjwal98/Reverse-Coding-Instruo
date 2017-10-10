@@ -16,10 +16,11 @@ Its the first of its kind **Open Source** event to be held at the IIEST campus. 
 It will be a 90 - Minute challenge and top participants will get exiting prizes and a `certificate of appreciation`.
 
 The event will be held on Github. So, it is mandatory for all participants to have a github account.
-If you don't have an account, then please register yourselves on Github for creating your account.
+If you don't have an account, then please register yourselves on Github! C'mon, that's a few simple steps!
 
 Once you have created your account with your username, you are ready to participate!
 
+And yes, don't worry! We got you covered! If you face any issues, ping any of the coordinators at the earliest.
 
 -------------------------------------------
 
