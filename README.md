@@ -1,7 +1,7 @@
 # Reverse-Coding-Instruo
 
 
-![](reverse_coding.png)
+![](https://raw.githubusercontent.com/Shibpur-Open-Source-Community/Reverse-Coding-Instruo/master/reverse%20coding-01.png)
 
 
 
