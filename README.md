@@ -1,17 +1,14 @@
-# Reverse-Coding-Instruo
-
+# Reverse Coding | Instruo 2017
 
 ![](https://raw.githubusercontent.com/Shibpur-Open-Source-Community/Reverse-Coding-Instruo/master/reverse%20coding-01.png)
-
 
 
 -------------------------------------------------------------------
 
 
-Its the first of its kind **Open Source** event to be held at the IIEST campus. It is based on reverse coding.
+Its the first of its kind **Open Source** event to be held at the IIEST, Shibpur Campus. It's based on Reverse Coding.
 
-
-`Given some inputs and outputs you will have to figure out the logic behind it.`
+`Given some set of inputs & outputs, you will have to figure out the logic (algorithm) behind it and code it right away.`
   
 It will be a 90 - Minute challenge and top participants will get exiting prizes and a `certificate of appreciation`.
 
