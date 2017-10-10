@@ -13,31 +13,29 @@ Its the first of its kind **Open Source** event to be held at the IIEST campus. 
 
 `Given some inputs and outputs you will have to figure out the logic behind it.`
   
-It will be a 90-minute challenge and top participants will get exiting prizes and a `certificate of participation`.
+It will be a 90 - Minute challenge and top participants will get exiting prizes and a `certificate of appreciation`.
 
+The event will be held on Github. So, it is mandatory for all participants to have a github account.
+If you don't have an account, then please register yourselves on Github for creating your account.
 
-The event will be held on Github. So it is required for participants to have a github account.
-If you don't have an account , then please register on Github for creating your account.
-
-Once you create your account with your username, you are free to take part in this contest.
+Once you have created your account with your username, you are ready to participate!
 
 
 -------------------------------------------
 
 ## Problems
-There will be four problems
+There will be four (4) problems:
 
-* problem 1
-* problem 2
-* problem 3
-* problem 4
+* Problem 1
+* Problem 2
+* Problem 3
+* Problem 4
 
-For each such problem you need to submit your solution in any language you want (preferrably C/C++/Java/Python)
+For each problem you need to submit your solution in any language you want (preferrably C/ C++/ Java/ Python/ Ruby/ R)
 
 ## Submission Guidelines
 
-In order to submit you solution, simply create a folder having folder name of your github username and within that folder, submit your solutions 
-for the problems.
+In order to submit you solutions, simply create a folder having folder name of your github username and within that folder, submit your solutions for the problems.
 
 -----------------------------------------------
 
