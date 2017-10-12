@@ -29,19 +29,22 @@ There will be four (4) problems:
 * Problem 3
 * Problem 4
 
-For each problem you need to submit your solution in any language you want (preferrably C/ C++/ Java/ Python/ Ruby/ R)
+For each problem you will be given one input test cae. You have to figure out the output value for it.
 
 ## Submission Guidelines
 
-In order to submit you solutions, simply create a folder having folder name of your github username and within that folder, submit your solutions for the problems.
+In order to submit you solutions, simply create a folder having folder name of your github username and within that folder, create a folder with the problem name and then state your output.
 
 -----------------------------------------------
 
 For example,
 
 * create folder under submission folder like this `submission/prateekiiest`
-* under this new folder create  folder for the problem you are solving and its solution file - like `submission/prateekiiest/problem-1/output`
+* under this new folder create  folder for the problem you are solving and its solution file - like `submission/prateekiiest/problem-1/output.md`
   
+  
+You have to upload your final code in a Google Form during the contest. 
+ 
 # Contributing Guidelines
 
 
